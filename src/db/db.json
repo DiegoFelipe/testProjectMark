@@ -1,0 +1,22 @@
+{
+  "topics": [
+    {
+      "id": "c578afd4-0cea-489a-8e5f-f6fbe1c9e4a8",
+      "name": "topic1",
+      "content": "topic 1 content",
+      "createdAt": "2025-07-15T21:22:50.003Z",
+      "updatedAt": "2025-07-15T21:22:50.003Z",
+      "version": 1,
+      "parentTopicId": 1
+    },
+    {
+      "id": "3df29233-415e-40e8-aaa8-137eb76a36ea",
+      "name": "topic2",
+      "content": "topic 2 content",
+      "createdAt": "2025-07-15T21:23:43.296Z",
+      "updatedAt": "2025-07-15T21:23:43.296Z",
+      "version": 1,
+      "parentTopicId": "c578afd4-0cea-489a-8e5f-f6fbe1c9e4a8"
+    }
+  ]
+}
